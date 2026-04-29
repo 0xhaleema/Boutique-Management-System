@@ -8,7 +8,7 @@ A desktop application built with **Java Swing** and **MySQL** that streamlines d
 
 | Splash Screen | Dashboard |
 |---|---|
-| ![Splash](Boutique management system.png) | ![Dashboard](Dashboard.png) |
+| ![Splash](Login.png) | ![Dashboard](Dashboard.png) |
 
 ---
 
